@@ -25,4 +25,4 @@
 
 ### 2. 一键安装命令
 在运行代码前，请确保在终端（CMD 或 PowerShell）中执行以下命令安装依赖：
-pip install PyQt6 keyboard
+`pip install PyQt6 keyboard`
