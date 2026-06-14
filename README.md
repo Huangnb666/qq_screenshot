@@ -1,5 +1,3 @@
-markdown_content = """# qq_screenshot
-
 一个基于 **PyQt6** 打造的轻量级、1:1 原生高清、仿 QQ/Snipaste 风格的桌面截图与贴图工具。
 
 本工具不仅支持高分辨率（DPI）感知，确保截图绝对清晰不模糊，还集成了丰富的标注工具以及实用的“钉在桌面（贴图）”功能。
@@ -27,3 +25,4 @@ markdown_content = """# qq_screenshot
 
 ### 2. 一键安装命令
 在运行代码前，请确保在终端（CMD 或 PowerShell）中执行以下命令安装依赖：
+pip install PyQt6 keyboard
